@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  VIP_demo
+
+  Created by Borja Saez de Guinoa Vilaplana on 02/01/2021.
+  
+*/
+
+//MARK: HomeScreen
+"searchbar_placeholder" = "Search";
+"title_home" = " iTunes";
+"title_desc" = "Search for a veriety of content from the iTunes Store : including iBooks, Movies, Podcasts, Music, MusicVideo, Audiobooks";
+"search_help" = "Specify the parameter for the content to be searched";
+"search" = "  🔎 Search in iTunes  ";
+"select_categories" = "Select Categories:";
+
+"validation_searchString" = "Please enter search string!!";
+"validation_category" = "Please select atleast one category!!";
+"something_wrong" = "Something want wrong!!";
+
+//MARK: SearchResult
+
+"title_result" = "Search Result";
+"grid" = "Grid";
+"list" = "List";
+
+//MARK: MusicDetails
+
+"play_video" = "Play Video";
+"price" = "price";
+"free" = "free";
